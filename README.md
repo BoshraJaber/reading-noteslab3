@@ -17,7 +17,7 @@ With us, Learning is Fun :star2:, Challenging :punch:, and Interesting! :heart_e
 |Third Day| [Git Intro](https://boshrajaber.github.io/reading-notes/read3) |
 |Third Day| [Duckett: HTML & CSS](https://boshrajaber.github.io/reading-notes/read4) |
 |Forth Day| [Duckett: HTML & CSS: Linking and Coloring](https://boshrajaber.github.io/reading-notes/read6) |
-
+|Read6a| [Duckett: HTML & CSS: JavaScript & jQuery](https://boshrajaber.github.io/reading-notes/read66a) |
 
 
 
