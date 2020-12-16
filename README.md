@@ -20,7 +20,7 @@ With us, Learning is Fun :star2:, Challenging :punch:, and Interesting! :heart_e
 |Read6a| [Duckett: HTML & CSS: JavaScript & jQuery](https://boshrajaber.github.io/reading-notes/read66a) |
 |Read6b| [How Computers works?](https://boshrajaber.github.io/reading-notes/read66b) |
 |Read7| [JS Functions. Operators, and Expressions](https://boshrajaber.github.io/reading-notes/read7) |
-
+|Read8| [JS Functions. Operators, and Expressions](https://boshrajaber.github.io/reading-notes/read8) |
 
 
 
