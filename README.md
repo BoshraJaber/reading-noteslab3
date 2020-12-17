@@ -7,16 +7,11 @@ With us, Learning is Fun :star2:, Challenging :punch:, and Interesting! :heart_e
 
 |No   | Title |
  |-----|------|
- |First Day | [Mastering Markdown on GitHub](https://boshrajaber.github.io/reading-notes/read1)                                   |
- |First Day | [GitHub Pages](https://boshrajaber.github.io/reading-notes/read1)               |
- |First Day| [GitHub Markdown Syntax](https://boshrajaber.github.io/reading-notes/read1)                                          |
- |Second Day | [Choosing a Text Editor](https://boshrajaber.github.io/reading-notes/read2) |
- |Second Day | [The Command Line](https://boshrajaber.github.io/reading-notes/read2) | 
- |Second Day | [Basic Navigation](https://boshrajaber.github.io/reading-notes/read2) |
-  |Second Day | [About Files](https://boshrajaber.github.io/reading-notes/read2) |
-|Third Day| [Git Intro](https://boshrajaber.github.io/reading-notes/read3) |
-|Third Day| [Duckett: HTML & CSS](https://boshrajaber.github.io/reading-notes/read4) |
-|Forth Day| [Duckett: HTML & CSS: Linking and Coloring](https://boshrajaber.github.io/reading-notes/read6) |
+ |Read 01 | [Mastering Markdown on GitHub](https://boshrajaber.github.io/reading-notes/read1)   |
+ |Read 02 | [Choosing a Text Editor](https://boshrajaber.github.io/reading-notes/read2) |
+|Read 03| [Git Intro](https://boshrajaber.github.io/reading-notes/read3) |
+|Read 04| [Duckett: HTML & CSS](https://boshrajaber.github.io/reading-notes/read4) |
+|Read 05| [Duckett: HTML & CSS: Linking and Coloring](https://boshrajaber.github.io/reading-notes/read6) |
 |Read6a| [Duckett: HTML & CSS: JavaScript & jQuery](https://boshrajaber.github.io/reading-notes/read66a) |
 |Read6b| [How Computers works?](https://boshrajaber.github.io/reading-notes/read66b) |
 |Read7| [JS Functions. Operators, and Expressions](https://boshrajaber.github.io/reading-notes/read7) |
